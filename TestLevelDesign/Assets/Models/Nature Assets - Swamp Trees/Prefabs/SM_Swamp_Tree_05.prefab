@@ -16,7 +16,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &8751169718593324225
 Transform:
@@ -54,11 +54,13 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 37797367535a6e74d871cbf1d7d7d43a, type: 2}
-  - {fileID: 2100000, guid: 75ebba9a6e9a2ef499e89c69355c3419, type: 2}
+  - {fileID: 2100000, guid: 19b2c27fedb7d784a85f5f88edee9d67, type: 2}
   - {fileID: 2100000, guid: 8cc409a6f10c7564eab42627dc29a6f6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -67,6 +69,7 @@ MeshRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -79,6 +82,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &8751169718593689827
 GameObject:
   m_ObjectHideFlags: 0
@@ -95,7 +99,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &8751169718593324227
 Transform:
@@ -133,12 +137,14 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 37797367535a6e74d871cbf1d7d7d43a, type: 2}
   - {fileID: 2100000, guid: 2c34e36bb13b5f240901fbc2434a52d3, type: 2}
-  - {fileID: 2100000, guid: 75ebba9a6e9a2ef499e89c69355c3419, type: 2}
+  - {fileID: 2100000, guid: 19b2c27fedb7d784a85f5f88edee9d67, type: 2}
   - {fileID: 2100000, guid: 8cc409a6f10c7564eab42627dc29a6f6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -147,6 +153,7 @@ MeshRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -159,6 +166,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &8751169718593689833
 GameObject:
   m_ObjectHideFlags: 0
@@ -174,7 +182,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &8751169718593324233
 Transform:
@@ -185,7 +193,7 @@ Transform:
   m_GameObject: {fileID: 8751169718593689833}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.7258861, y: 0.72588605, z: 0.7258861}
   m_Children:
   - {fileID: 8751169718593324239}
   - {fileID: 8751169718593324237}
@@ -241,7 +249,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &8751169718593324237
 Transform:
@@ -279,12 +287,14 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 37797367535a6e74d871cbf1d7d7d43a, type: 2}
   - {fileID: 2100000, guid: 2c34e36bb13b5f240901fbc2434a52d3, type: 2}
-  - {fileID: 2100000, guid: 75ebba9a6e9a2ef499e89c69355c3419, type: 2}
+  - {fileID: 2100000, guid: 19b2c27fedb7d784a85f5f88edee9d67, type: 2}
   - {fileID: 2100000, guid: 8cc409a6f10c7564eab42627dc29a6f6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -293,6 +303,7 @@ MeshRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -305,6 +316,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &8751169718593689839
 GameObject:
   m_ObjectHideFlags: 0
@@ -321,7 +333,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &8751169718593324239
 Transform:
@@ -359,11 +371,13 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 37797367535a6e74d871cbf1d7d7d43a, type: 2}
-  - {fileID: 2100000, guid: 75ebba9a6e9a2ef499e89c69355c3419, type: 2}
+  - {fileID: 2100000, guid: 19b2c27fedb7d784a85f5f88edee9d67, type: 2}
   - {fileID: 2100000, guid: 2c34e36bb13b5f240901fbc2434a52d3, type: 2}
   - {fileID: 2100000, guid: 8cc409a6f10c7564eab42627dc29a6f6, type: 2}
   m_StaticBatchInfo:
@@ -373,6 +387,7 @@ MeshRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -385,3 +400,4 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
