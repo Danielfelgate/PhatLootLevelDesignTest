@@ -1,3 +1,2 @@
-# PhatLootLevelDesignTest
-This Repo is used to store a Setup test for level designers  
-When submitting you will be made to create your own repo on any git site for review.
+# PhatLootLevelDesignTest - Dan
+This is my for of the level design test with my scenes implemented.
