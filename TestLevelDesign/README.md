@@ -3,6 +3,7 @@ This is my fork of the level design test with my scenes implemented.
 
 To view the environments with all particle and post processing effects active, play the scene.
 In play mode, press SPACE to switch between camera points in the scene, and press SHIFT to switch scenes.
+I would also recommend running play mode at 1920x1080 for proper depth of field levels.
 
 Both of these environments have issues with scale due to the limited world space available on the blockout and the amount of content I tried to fit in each scene.
 I will say that these scenes take place in a gnome inhabited world to get around this, however I do understand the importance of consistent scale in a game world, and doing this project again, I would more closely match the environment concept to the size of the available space.
